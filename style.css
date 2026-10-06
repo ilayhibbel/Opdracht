@@ -1,0 +1,56 @@
+body {
+    background-color: blanchedalmond;
+    font-family: cursive;
+
+}
+
+.wereld {
+    width: 700px;
+    margin-left: 200px;
+}
+
+.kopje1 {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    
+}
+
+.telefoon{
+    width: 600px;
+}
+.kopje2{
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 30px;
+}
+
+p {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.alinea1 {
+    width: 500px;
+}
+
+.alinea2 {
+    width: 500px;
+    margin-left: auto;
+}
+
+.verbonden {
+    width: 400px;
+
+}
+
+.over {
+    width: 200px;
+
+}
+
+.afstand {
+    width: 300px;
+}
